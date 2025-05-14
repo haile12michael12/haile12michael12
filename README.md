@@ -1,6 +1,6 @@
 
 <img src="https://github.com/haile12michael12/haile12michael12/blob/main/cover.jpg" width="100%" height="300px">
-## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation <br>in full-stack development and a knack<br> for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br>
+## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation in full-stack development and a knack for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/hailemichael.assefa.773) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hailemichael-assefa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelhaile12@yahoo.com) 
