@@ -1,5 +1,4 @@
 
-![Uploading cover.jpg…]()
 
 ## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation <br>in full-stack development and a knack<br> for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br>
 
