@@ -1,5 +1,5 @@
 
-<img src="https://github.com/haile12michael12/haile12michael12/cover.jpg" width="100%" height="300px">
+<img src="https://github.com/haile12michael12/haile12michael12/blob/main/cover.jpg" width="100%" height="300px">
 ## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation <br>in full-stack development and a knack<br> for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br>
 
 ## 🌐 Socials:
