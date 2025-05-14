@@ -1,6 +1,6 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation <br>in full-stack development and a knack<br> for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br><br>Over the years, I've worked on a wide range of projects—from startup MVPs to enterprise-grade platforms—bringing ideas to life with modern tools and best practices. I take pride in writing code that's not just functional, but also maintainable and performant.<br><br>I’m a lifelong learner, an open-source enthusiast, and a strong believer in teamwork, code quality, and continuous improvement.<br><br>When I’m not coding, you’ll probably find me exploring new technologies, writing technical blogs, or contributing to the dev community.<br>
 
+
+## 👋 About Me<br><br>I'm a passionate Software Developer with a strong foundation <br>in full-stack development and a knack<br> for solving complex problems through clean, efficient code. <br>I enjoy building high-impact applications, whether it's a scalable backend system or a beautiful user interface.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/hailemichael.assefa.773) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hailemichael-assefa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelhaile12@yahoo.com) 
