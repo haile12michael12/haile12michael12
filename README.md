@@ -2,7 +2,9 @@
 
   <!-- Dynamic Animated Gradient Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,80:1e3a8a,100:0284c7&height=230&section=header&text=Hailemichael%20Assefa&fontSize=42&fontColor=60a5fa&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Architect%20•%20Laravel%20%26%20React%20Specialist%20•%20SaaS%20%26%20AI%20Builder&descFontSize=16&descColor=cbd5e1&descAlignY=58" width="100%" alt="Header Banner" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1e3a8a,100:0284c7&height=180&section=header&text=Hailemichael%20Assefa&fontSize=38&fontColor=60a5fa&fontAlignY=42&desc=Full-Stack%20Engineer%20·%20Laravel%20%26%20React%20·%20SaaS%20%26%20AI%20Systems&descFontSize=15&descColor=cbd5e1&descAlignY=62" width="100%" alt="Header" />
+
+  <!-- Profile Cover Photo -->
+  <img src="cover.jpg" width="180" height="180" style="border-radius:50%;border:4px solid #0284c7;margin-top:-60px;box-shadow:0 8px 32px rgba(2,132,199,0.4);" alt="Hailemichael Assefa" />
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
