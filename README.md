@@ -1,50 +1,40 @@
-<div align="center">
+﻿<div align="center">
 
-  <!-- Dynamic Animated Gradient Wave Header -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!--                    HERO BANNER                         -->
+  <!-- ═══════════════════════════════════════════════════════ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,80:1e3a8a,100:0284c7&height=230&section=header&text=Hailemichael%20Assefa&fontSize=42&fontColor=60a5fa&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Architect%20•%20Laravel%20%26%20React%20Specialist%20•%20SaaS%20%26%20AI%20Builder&descFontSize=16&descColor=cbd5e1&descAlignY=58" width="100%" alt="Header Banner" />
 
-  <!-- Profile Cover Photo -->
-  <img src="cover.jpg" width="180" height="180" style="border-radius:50%;border:4px solid #0284c7;margin-top:-60px;box-shadow:0 8px 32px rgba(2,132,199,0.4);" alt="Hailemichael Assefa" />
+  <!-- Cover / Profile Photo -->
+  <img src="cover.jpg" width="160" height="160" alt="Hailemichael Assefa" />
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🚀+Architecting+Scalable+Laravel+Backends;⚡+Building+Modern+React+%26+TypeScript+Frontends;🤖+Integrating+AI+%26+LLM-Powered+Workflows;🏢+Engineering+Multi-Tenant+SaaS+Platforms;💼+Open+for+Remote+Roles+%26+High-Impact+Contracts" alt="Typing SVG" />
-<p>
-  <a href="mailto:hailemichael.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hailemichael.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=45&lines=🚀+Architecting+Scalable+Laravel+Backends;⚡+Building+Modern+React+%26+TypeScript+Frontends;🤖+Integrating+AI+%26+LLM-Powered+Workflows;🏢+Engineering+Multi-Tenant+SaaS+Platforms;💼+Open+for+Remote+Roles+%26+High-Impact+Contracts" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/hailemichael-assefa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/haile12michael12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
   <br/>
-<img src="https://img.shields.io/badge/Available%20for%20Hire-success?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/badge/Based%20in-Addis%20Ababa%20·%20Remote-0284c7?style=flat-square" alt="Location" />
 
-  <!-- Quick Navigation Bar with Premium Styling -->
-  <p align="center">
-    <a href="#-about-me"><b>📌 About</b></a> •
-    <a href="#-developer-terminal"><b>💻 Terminal</b></a> •
-    <a href="#-featured-projects"><b>🎯 Projects</b></a> •
-    <a href="#-skill-proficiency-matrix"><b>⚡ Skills</b></a> •
-    <a href="#-services--solutions"><b>🔧 Services</b></a> •
-    <a href="#-github-trophies--activity-graph"><b>📊 Analytics</b></a> •
-    <a href="#-lets-connect--collaborate"><b>🤝 Contact</b></a>
-  </p>
-
-  <!-- Status & Quick Badges with Enhanced Styling -->
+  <!-- Status Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Status-🟢_Available_for_Hire-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/Location-Addis_Ababa_•_Worldwide_Remote-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Experience-Full--Stack_Engineer-6366f1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
-    <img src="https://img.shields.io/badge/Years%20Active-5%2B_Years-FF6B6B?style=for-the-badge&logo=target&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Years%20Active-5%2B_Years-FF6B6B?style=for-the-badge&logo=target&logoColor=white" alt="Years" />
   </p>
 
-  <!-- Contact & Social Links -->
+  <!-- Quick Navigation -->
+  <p align="center">
+    <a href="#-about-me"><b>📌 About</b></a> •
+    <a href="#-tech-stack"><b>⚡ Stack</b></a> •
+    <a href="#-featured-projects-showcase"><b>🎯 Projects</b></a> •
+    <a href="#-services--solutions"><b>🔧 Services</b></a> •
+    <a href="#-github-analytics"><b>📊 Analytics</b></a> •
+    <a href="#-3d-contribution-calendar"><b>🌐 3D Calendar</b></a> •
+    <a href="#-lets-connect--collaborate"><b>🤝 Contact</b></a>
+  </p>
+
+  <!-- Social Links -->
   <p align="center">
     <a href="mailto:hailemichael.dev@gmail.com?subject=Project%20Enquiry%20from%20GitHub&body=Hi%20Hailemichael,%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20discuss%20a%20project/opportunity...">
       <img src="https://img.shields.io/badge/Email-hailemichael.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -67,47 +57,36 @@
 
 ---
 
+## 📌 About Me
+
 <div align="center">
   <blockquote>
     <h3>💡 "Transform complex business challenges into elegant, scalable digital solutions"</h3>
   </blockquote>
 </div>
-## About Me
 
----
-I'm a **Full-Stack Software Developer & Systems Architect** specializing in production-grade web applications, multi-tenant SaaS platforms, two-sided marketplaces, and AI-assisted automation.
+I'm a **Full-Stack Software Developer & Systems Architect** specializing in production-grade web applications, multi-tenant SaaS platforms, two-sided marketplaces, and AI-assisted automation platforms.
 
-### 👨🏻‍💻 About Me
-My work starts at the data model — designing resilient schemas and building secure, high-throughput **Laravel APIs** with async queues, Redis caching, and strict validation. On the frontend, I build fast, accessible interfaces with **React, TypeScript, and Tailwind CSS**.
-
-> *"A developer who ships complete systems, not just screens."*
-- **Core stack:** PHP (Laravel) · TypeScript (React) · MySQL · Redis · Docker
-- **Focus areas:** API architecture, SaaS engineering, marketplace systems, AI integration
-- **Availability:** Full-time remote roles, contracts, and consulting
-
-I am a **Full-Stack Software Developer & Systems Architect** specializing in production-grade web applications, multi-tenant SaaS dashboards, two-sided marketplaces, and AI-assisted automation platforms.
-
-My engineering approach begins at the **domain data model**: designing resilient schema architectures and architecting high-throughput, secure **Laravel APIs** with asynchronous queue workers, Redis caching, and strict data validation. On the client side, I engineer lightning-fast, accessible, and reactive interfaces using **React, TypeScript, and Tailwind CSS**.
+My engineering approach begins at the **domain data model**: designing resilient schema architectures and building high-throughput, secure **Laravel APIs** with async queue workers, Redis caching, and strict validation. On the client side, I craft lightning-fast, accessible interfaces using **React, TypeScript, and Tailwind CSS**.
 
 <details>
 <summary><b>📋 Quick Professional Profile</b></summary>
 
 ```yaml
 ├─ 🎯 Core Expertise:      Backend Architecture • API Design • SaaS Engineering • Marketplace Systems
-├─ 💼 Current Focus:        Architecting high-concurrency Laravel backends & reactive React SPAs
-├─ 🛠️  Core Stack:          PHP (Laravel) • TypeScript (React) • MySQL • Redis • Docker
-├─ 🏗️  Engineering Goal:    Building maintainable, tested, zero-downtime platforms with seamless UX
-├─ 📍 Location:             Addis Ababa, Ethiopia 🇪🇹 (Worldwide Remote)
-├─ 🕐 Availability:         Open to worldwide remote full-time positions, contracting & consulting
-└─ 🚀 Latest Projects:      AI-powered SaaS • Multi-vendor Marketplaces • High-Performance APIs
+├─ 💼 Current Focus:       Architecting high-concurrency Laravel backends & reactive React SPAs
+├─ 🛠️  Core Stack:         PHP (Laravel) • TypeScript (React) • MySQL • Redis • Docker
+├─ 🏗️  Engineering Goal:   Building maintainable, tested, zero-downtime platforms with seamless UX
+├─ 📍 Location:            Addis Ababa, Ethiopia 🇪🇹 (Worldwide Remote)
+├─ 🕐 Availability:        Open to worldwide remote full-time, contracting & consulting
+└─ 🚀 Latest Projects:     AI-powered SaaS • Multi-vendor Marketplaces • High-Performance APIs
 ```
 
 </details>
 
 ---
 
-### 💻 Developer Terminal
-## Tech Stack
+## 💻 Developer Terminal
 
 <div align="center">
   <table>
@@ -117,13 +96,6 @@ My engineering approach begins at the **domain data model**: designing resilient
           <pre><code><span style="color:#ef4444">●</span> <span style="color:#eab308">●</span> <span style="color:#22c55e">●</span>  <b>hailemichael.ts</b>
 <hr style="border: 0.5px solid #334155; margin: 4px 0 8px 0;"/>
 <span style="color:#818cf8">import</span> { <span style="color:#38bdf8">SoftwareEngineer</span>, <span style="color:#38bdf8">Architect</span> } <span style="color:#818cf8">from</span> <span style="color:#34d399">"@hailemichael/core"</span>;
-| Category | Technologies |
-|---|---|
-| **Backend** | PHP, Laravel, Node.js, Express, Python, Django, FastAPI |
-| **Frontend** | React, TypeScript, JavaScript, Next.js, Tailwind CSS |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, AWS, GitHub Actions, Nginx |
-| **Tools** | Git, Postman, Figma, VS Code |
 
 <span style="color:#818cf8">class</span> <span style="color:#fbbf24">FullStackDeveloper</span> <span style="color:#818cf8">implements</span> <span style="color:#38bdf8">SoftwareEngineer</span> {
   <span style="color:#818cf8">readonly</span> name     = <span style="color:#34d399">"Hailemichael Assefa"</span>;
@@ -154,8 +126,46 @@ My engineering approach begins at the **domain data model**: designing resilient
 
 ---
 
+## ⚡ Tech Stack
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :---: | :--- |
+| **🔧 Backend & APIs** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **🎨 Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| **🗄️ Databases & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **🚀 DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| **🛠️ Tools & Utilities** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 Skill Proficiency Matrix
+
+<div align="center">
+  <h4>🎖️ Expertise Breakdown</h4>
+</div>
+
+```
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Laravel & PHP Ecosystem      [█████████████████████████] 98%  ⚡ Expert / Primary
+ React & TypeScript           [███████████████████████▒▒] 92%  💎 Advanced / Primary
+ MySQL & Database Schema      [██████████████████████▒▒▒] 90%  🗄️ Advanced
+ Redis Caching & Queue Jobs   [█████████████████████▒▒▒▒] 88%  ⚡ Advanced
+ Docker & CI/CD Pipelines     [████████████████████░░░░░] 82%  🐳 Proficient
+ AI & LLM Integration         [████████████████████░░░░░] 80%  🤖 Proficient
+ AWS & Cloud Infrastructure   [███████████████░░░░░░░░░░] 75%  ☁️ Intermediate
+ GraphQL & API Design         [██████████████░░░░░░░░░░░] 72%  🔗 Intermediate
+
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
 ## 🏛️ Core Engineering Pillars
-## Featured Projects
 
 <table>
   <tr>
@@ -181,7 +191,7 @@ My engineering approach begins at the **domain data model**: designing resilient
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ 03. Security & Scalability</h4>
-      <p>Role-Based Access Control (RBAC), multi-tenant data isolation, strict input validation, sanitized database transactions, and <b>audited data flows</b>.</p>
+      <p>Role-Based Access Control (RBAC), multi-tenant data isolation, strict input validation, sanitized transactions, and <b>audited data flows</b>.</p>
       <ul style="list-style: none; padding-left: 0;">
         <li>✓ Enterprise-grade security</li>
         <li>✓ Data isolation patterns</li>
@@ -199,69 +209,15 @@ My engineering approach begins at the **domain data model**: designing resilient
     </td>
   </tr>
 </table>
-### 🏗️ Construction Marketplace
-Two-sided procurement platform connecting property owners with verified contractors — competitive bidding, escrow milestone payments, in-app messaging, and document verification.
-`Laravel` `React` `MySQL` `Redis` `Docker`
-
----
-### 🛒 Multi-Vendor E-Commerce Platform
-Scalable marketplace with independent merchant dashboards, automated payouts, real-time multi-warehouse inventory sync, and vendor sales analytics.
-`Laravel` `React` `MySQL` `Stripe` `Docker`
-
-## 📊 Skill Proficiency Matrix
-### 🎓 School Management System
-Multi-campus operations suite for enrollment, attendance, grading, and finance, with dedicated parent and student portals and automated PDF report cards.
-`Laravel` `PHP` `MySQL` `Tailwind CSS` `Chart.js`
-
-<div align="center">
-  <h4>🎖️ Expertise Breakdown</h4>
-</div>
-### 📰 Newsroom & Editorial CMS
-SEO-first publishing platform with role-based editorial workflows, scheduled releases, a media library, and ad placement management.
-`Laravel` `PHP` `MySQL` `Tailwind CSS`
-
-```
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- Laravel & PHP Ecosystem      [█████████████████████████] 98%  ⚡ Expert / Primary
- React & TypeScript           [███████████████████████▒▒] 92%  💎 Advanced / Primary
- MySQL & Database Schema      [██████████████████████▒▒▒] 90%  🗄️ Advanced
- Redis Caching & Queue Jobs   [█████████████████████▒▒▒▒] 88%  ⚡ Advanced
- Docker & CI/CD Pipelines     [████████████████████░░░░░] 82%  🐳 Proficient
- AI & LLM Integration         [████████████████████░░░░░] 80%  🤖 Proficient
- AWS & Cloud Infrastructure   [███████████████░░░░░░░░░░] 75%  ☁️ Intermediate
- GraphQL & API Design         [██████████████░░░░░░░░░░░] 72%  🔗 Intermediate
-
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :---: | :--- |
-| **🔧 Backend & APIs** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **🎨 Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
-| **🗄️ Databases & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **🚀 DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
-| **🛠️ Tools & Utilities** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
-
-</div>
 
 ---
 
-## 🚀 Featured Projects Showcase
-## Services
+## 🎯 Featured Projects Showcase
 
 <div align="center">
   <h3>💼 Portfolio Highlights</h3>
   <p><i>Full-stack production applications across diverse domains and scales</i></p>
 </div>
-- **Full-Stack Applications** — Laravel + React/TypeScript apps with domain-driven design and RESTful APIs
-- **SaaS Platforms** — Multi-tenant architecture, Stripe billing, RBAC, and admin dashboards
-- **AI Integration** — RAG pipelines, semantic search, and automated workflows
-- **API Architecture** — OpenAPI specs, OAuth 2.0, rate limiting, and webhook integrations
-- **Performance Tuning** — Query optimization, indexing, and caching strategies
-- **DevOps** — Docker, zero-downtime deploys, and CI/CD pipelines
 
 <table>
   <tr>
@@ -340,7 +296,7 @@ SEO-first publishing platform with role-based editorial workflows, scheduled rel
       </div>
       <h3>🎓 03. School Management System</h3>
       <p><strong>Multi-campus operational suite for attendance, grading, and finance.</strong></p>
-      <p>Institutional operations platform powering student enrollment, digital attendance, exam evaluations, automated grading analytics, and fee tracking.</p>
+      <p>Institutional platform powering student enrollment, digital attendance, exam evaluations, automated grading analytics, and fee tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -386,13 +342,10 @@ SEO-first publishing platform with role-based editorial workflows, scheduled rel
 ---
 
 ## 🔧 Services & Solutions
-## GitHub Activity
 
 <div align="center">
   <h3>💼 What I Offer</h3>
   <p><i>End-to-end engineering services for ambitious product teams</i></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile12michael12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <table>
@@ -437,7 +390,7 @@ SEO-first publishing platform with role-based editorial workflows, scheduled rel
     </td>
     <td width="33%" align="center">
       <h4>⚡ Performance Tuning</h4>
-      <p>Database query <b>optimization</b>, schema indexing, Redis caching, and untangling legacy codebases safely.</p>
+      <p>Database query <b>optimization</b>, schema indexing, Redis caching, and safely untangling legacy codebases.</p>
       <ul style="list-style: none; padding-left: 0;">
         <li>✅ Load testing</li>
         <li>✅ Index analysis</li>
@@ -459,61 +412,142 @@ SEO-first publishing platform with role-based editorial workflows, scheduled rel
 <div align="center">
   <p><i>🎯 Flexible engagement models: Full-time • Part-time • Contract • Advisory</i></p>
 </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
-## 📊 GitHub Trophies & Activity Graph
+## 📊 GitHub Analytics
 
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
-  
+
   <!-- GitHub Profile Trophies -->
   <a href="https://github.com/haile12michael12">
     <img src="https://github-profile-trophy.vercel.app/?username=haile12michael12&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 
   <br/><br/>
-**Let's build something together.**
-Open to full-time remote roles, contract work, and technical consulting.
 
   <!-- Interactive Activity Graph -->
   <a href="https://github.com/haile12michael12">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </a>
-<a href="mailto:hailemichael.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20in%20Touch-hailemichael.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
   <br/><br/>
-<br/><br/>
 
-  <!-- GitHub Stats & Top Languages -->
+  <!-- Stats & Top Languages -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Hailemichael's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile12michael12&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e3a8a,100:0b0f19&height=100&section=footer" width="100%" alt="Footer" />
 
   <br/>
 
-  <!-- Streak Stats & Dev Quote -->
+  <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=haile12michael12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
   <br/><br/>
 
+  <!-- Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+> Auto-generated daily via GitHub Actions · [`.github/workflows/profile-3d.yml`](.github/workflows/profile-3d.yml)
+
+<div align="center">
+  <img width="100%" src="profile-3d-contrib/profile-south-season-animate.svg" alt="3D GitHub contribution calendar — south season animated" />
+</div>
+
+<details>
+<summary>🎨 View all 3D contribution style variants</summary>
+
+<br/>
+
+| Style | Preview |
+|---|---|
+| **Season Animate** | ![season-animate](profile-3d-contrib/profile-season-animate.svg) |
+| **South Season** | ![south-season](profile-3d-contrib/profile-south-season.svg) |
+| **Season** | ![season](profile-3d-contrib/profile-season.svg) |
+| **Night Rainbow** | ![night-rainbow](profile-3d-contrib/profile-night-rainbow.svg) |
+| **Night Green** | ![night-green](profile-3d-contrib/profile-night-green.svg) |
+| **Night View** | ![night-view](profile-3d-contrib/profile-night-view.svg) |
+| **Green Animate** | ![green-animate](profile-3d-contrib/profile-green-animate.svg) |
+| **Green** | ![green](profile-3d-contrib/profile-green.svg) |
+| **Git Block** | ![gitblock](profile-3d-contrib/profile-gitblock.svg) |
+
+</details>
+
+---
+
+## ⚙️ Automation & CI/CD
+
+This profile is powered by a **GitHub Actions** workflow that runs every day at 00:10 UTC to regenerate the 3D contribution calendar and auto-commit the result.
+
+<details>
+<summary>📋 View workflow — <code>.github/workflows/profile-3d.yml</code></summary>
+
+```yaml
+name: GitHub Profile 3D Contributions
+
+on:
+  schedule:
+    - cron: "10 0 * * *"   # Runs every day at 00:10 UTC
+  workflow_dispatch:         # Can also be triggered manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Remove language panel
+        run: node scripts/patch-profile-hero.mjs
+
+      - name: Commit generated profile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git commit -m "Update 3D contribution profile" || exit 0
+          git push
+```
+
+</details>
+
+<details>
+<summary>🔧 View post-processing script — <code>scripts/patch-profile-hero.mjs</code></summary>
+
+The [`patch-profile-hero.mjs`](scripts/patch-profile-hero.mjs) script strips the auto-generated language panel `<g>` group from the 3D SVG, keeping the hero display clean and focused on contribution bars only.
+
+```js
+// Usage: node scripts/patch-profile-hero.mjs
+// Override target: node scripts/patch-profile-hero.mjs --svg path/to/file.svg
+//
+// Reads the SVG, finds the language panel group at translate(40, 520),
+// removes it using balanced <g>...</g> tag tracking, and writes back.
+```
+
+Full source: [`scripts/patch-profile-hero.mjs`](scripts/patch-profile-hero.mjs) · Test suite: [`scripts/test-patch-profile-hero.mjs`](scripts/test-patch-profile-hero.mjs)
+
+</details>
 
 ---
 
@@ -553,13 +587,10 @@ Open to full-time remote roles, contract work, and technical consulting.
 
   <br/><br/>
 
-  <!-- Dynamic Animated Footer Wave -->
+  <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,30:1e3a8a,70:1e1b4b,100:0b0f19&height=120&section=footer" width="100%" alt="Footer Wave" />
 
-  <br/>
-
-  <p><i>Crafted with passion & precision • © 2024 Hailemichael Assefa</i></p>
+  <p><i>Crafted with passion & precision · © 2024 Hailemichael Assefa</i></p>
   <p><sub>🌟 If you found this profile valuable, please consider giving it a ⭐ on GitHub!</sub></p>
 
 </div>
-
