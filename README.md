@@ -130,6 +130,9 @@ flowchart LR
 ## Optional Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/haile12michael12/HeritageHub/pull/4) in [haile12michael12/HeritageHub](https://github.com/haile12michael12/HeritageHub)
+2. 💪 Opened PR [#4](https://github.com/haile12michael12/HeritageHub/pull/4) in [haile12michael12/HeritageHub](https://github.com/haile12michael12/HeritageHub)
+3. 💪 Opened PR [#3](https://github.com/haile12michael12/HeritageHub/pull/3) in [haile12michael12/HeritageHub](https://github.com/haile12michael12/HeritageHub)
 <!--END_SECTION:activity-->
 
 ## 🌍 Visitor Activity
