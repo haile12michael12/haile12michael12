@@ -1,16 +1,87 @@
-name: Update AI Lab
+name: Update AI Engineering Lab
 
 on:
+  schedule:
+    - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "data/ai-lab.json"
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  validate:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Validate AI Lab data
-        run: python -m json.tool data/ai-lab.json > /dev/null
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate AI Lab table
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(Path("data/ai-lab.json").read_text(encoding="utf-8"))
+
+          lines = [
+              "| Project | Focus | Stack | Status | Links |",
+              "|---|---|---|---|---|"
+          ]
+
+          for p in data["projects"]:
+              links = []
+              if p.get("demo"):
+                  links.append(f"[Live Demo]({p['demo']})")
+              if p.get("repo"):
+                  links.append(f"[Source]({p['repo']})")
+
+              lines.append(
+                  f"| **{p['name']}** | {p['highlight']} | "
+                  f"{', '.join(p['stack'])} | `{p['status']}` | "
+                  f"{' · '.join(links) or 'Coming soon'} |"
+              )
+
+          table = "\n".join(lines)
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+
+          start = "<!-- AI_LAB_START -->"
+          end = "<!-- AI_LAB_END -->"
+
+          if start not in content or end not in content:
+              raise SystemExit("README is missing AI_LAB markers")
+
+          updated = (
+              content[:content.index(start) + len(start)]
+              + "\n" + table + "\n"
+              + content[content.index(end):]
+          )
+
+          readme.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.com"
+
+          if git diff --quiet README.md; then
+            echo "No README changes detected"
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "chore: update AI Engineering Lab"
+          git push
