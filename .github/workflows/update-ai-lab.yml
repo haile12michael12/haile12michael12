@@ -1,4 +1,4 @@
-name: Update AI Engineering Lab
+name: Update AI Lab
 
 on:
   schedule:
@@ -14,12 +14,9 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,55 +30,63 @@ jobs:
           from pathlib import Path
 
           data = json.loads(Path("data/ai-lab.json").read_text(encoding="utf-8"))
+          projects = data.get("projects")
+          if not isinstance(projects, list):
+              raise ValueError("data/ai-lab.json must contain a projects array")
+
+          def cell(value):
+              return str(value).replace("|", r"\|").replace("\r", " ").replace("\n", " ")
 
           lines = [
               "| Project | Focus | Stack | Status | Links |",
-              "|---|---|---|---|---|"
+              "|---|---|---|---|---|",
           ]
 
-          for p in data["projects"]:
-              links = []
-              if p.get("demo"):
-                  links.append(f"[Live Demo]({p['demo']})")
-              if p.get("repo"):
-                  links.append(f"[Source]({p['repo']})")
+          required = ("name", "description", "stack", "demo", "repo", "docs", "status", "highlight")
+          for project in projects:
+              missing = [key for key in required if key not in project]
+              if missing:
+                  raise ValueError(f"Project is missing required fields: {', '.join(missing)}")
+              if not isinstance(project["stack"], list):
+                  raise ValueError(f"Project stack must be an array: {project['name']}")
 
+              links = [
+                  f"[{label}]({project[key]})"
+                  for key, label in (("demo", "Demo"), ("repo", "Repo"), ("docs", "API docs"))
+                  if project[key]
+              ]
               lines.append(
-                  f"| **{p['name']}** | {p['highlight']} | "
-                  f"{', '.join(p['stack'])} | `{p['status']}` | "
-                  f"{' · '.join(links) or 'Coming soon'} |"
+                  f"| **{cell(project['name'])}** | {cell(project['highlight'])} | "
+                  f"{cell(', '.join(project['stack']))} | {cell(project['status'])} | "
+                  f"{' · '.join(links) if links else '—'} |"
               )
-
-          table = "\n".join(lines)
-
-          readme = Path("README.md")
-          content = readme.read_text(encoding="utf-8")
 
           start = "<!-- AI_LAB_START -->"
           end = "<!-- AI_LAB_END -->"
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          if content.count(start) != 1 or content.count(end) != 1:
+              raise ValueError("README.md must contain exactly one pair of AI Lab markers")
 
-          if start not in content or end not in content:
-              raise SystemExit("README is missing AI_LAB markers")
+          start_index = content.index(start) + len(start)
+          end_index = content.index(end)
+          if start_index > end_index:
+              raise ValueError("AI Lab markers are out of order")
 
-          updated = (
-              content[:content.index(start) + len(start)]
-              + "\n" + table + "\n"
-              + content[content.index(end):]
-          )
-
+          updated = content[:start_index] + "\n" + "\n".join(lines) + "\n" + content[end_index:]
           readme.write_text(updated, encoding="utf-8")
           PY
 
       - name: Commit updated README
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet README.md; then
+          if git diff --quiet -- README.md; then
             echo "No README changes detected"
             exit 0
           fi
 
           git add README.md
-          git commit -m "chore: update AI Engineering Lab"
+          git commit -m "chore: update AI Lab table"
           git push

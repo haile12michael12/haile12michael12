@@ -2,29 +2,32 @@
   "projects": [
     {
       "name": "Government Service RAG Chatbot",
-      "description": "AI assistant that answers citizen questions from official documents and provides source citations.",
-      "stack": ["React", "FastAPI", "LangChain", "ChromaDB", "PostgreSQL"],
-      "demo": "https://your-live-demo-link.com",
-      "repo": "https://github.com/haile12michael12/gov-rag-chatbot",
-      "status": "Live",
+      "description": "RAG chatbot concept for searching public-service documents and providing answers with citations.",
+      "stack": ["RAG", "Citations", "Document Search"],
+      "demo": "",
+      "repo": "",
+      "docs": "",
+      "status": "Status to be updated",
       "highlight": "RAG · Citations · Document Search"
     },
     {
       "name": "Financial Support AI Agent",
-      "description": "Customer-support assistant for FAQs, intent detection, and escalation to human agents.",
-      "stack": ["Node.js", "Express", "OpenAI-compatible API", "Redis", "MongoDB"],
+      "description": "LLM agent concept for financial-support interactions and workflow automation.",
+      "stack": ["LLM Agent", "Workflow Automation"],
       "demo": "",
-      "repo": "https://github.com/haile12michael12/financial-support-agent",
-      "status": "In Progress",
+      "repo": "",
+      "docs": "",
+      "status": "Status to be updated",
       "highlight": "LLM Agent · Workflow Automation"
     },
     {
       "name": "Medical Risk Prediction API",
-      "description": "Machine-learning prediction service with model evaluation and REST API deployment.",
-      "stack": ["Python", "FastAPI", "scikit-learn", "Docker"],
+      "description": "Machine-learning API concept focused on prediction and model evaluation.",
+      "stack": ["ML API", "Model Evaluation"],
       "demo": "",
-      "repo": "https://github.com/haile12michael12/medical-risk-api",
-      "status": "Completed",
+      "repo": "",
+      "docs": "",
+      "status": "Status to be updated",
       "highlight": "ML API · Model Evaluation"
     }
   ]

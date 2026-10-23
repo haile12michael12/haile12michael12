@@ -1,88 +1,145 @@
 <div align="center">
 
-# 👋 Hailemichael Assefa
+# Hailemichael Assefa
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+Product+Builder;RAG+Chatbot+Developer;Scalable+Systems+Enthusiast)
+### Full-Stack Engineer
 
-**Building scalable web platforms and practical AI-powered products.**
+**Full-Stack Engineer building scalable web platforms, secure APIs, and AI-powered products.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+📍 Bishoftu, Oromiya, Ethiopia · Open to remote roles
 
-![Profile Views](https://komarev.com/ghpvc/?username=haile12michael12&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+[Portfolio]([PORTFOLIO_URL]) · [LinkedIn]([LINKEDIN_URL]) · [Email](mailto:[EMAIL]) · [CV]([CV_URL])
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=haile12michael12&color=0abf53&style=flat-square&label=Profile+Views)](https://github.com/haile12michael12)
 
-## ⚡ About Me
-
-- 🔭 Currently building: **RAG-powered government-service chatbot**
-- 🌱 Learning: **Advanced system design and AI engineering**
-- 💬 Ask me about: **React, Node.js, Laravel, MongoDB, RAG, API design**
-- 🌍 Based in: **Ethiopia · Open to remote work**
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%26+RAG+Chatbot+Developer;Scalable+Web+Platform+Builder;System+Design+Enthusiast)
 
 </div>
 
-## 🚀 Featured Projects
+## What I Build
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **HeritageHub** | Ethiopian cultural-products e-commerce platform | React · Node.js · MongoDB | [Demo](#) · [Code](#) |
-| **Auto Car Market** | Automotive marketplace with dealer workflows | React · Node.js · MongoDB | [Demo](#) · [Code](#) |
-| **Gov RAG Chatbot** | Document-grounded AI assistant with citations | React · FastAPI · LangChain | [Demo](#) · [Code](#) |
-| **Medical Risk API** | ML prediction service with REST API | Python · FastAPI · scikit-learn | [Code](#) |
+- Scalable full-stack web applications with React, Node.js, and Laravel
+- E-commerce, marketplace, and government-service platforms
+- Secure authentication, role-based access, and clean API design
+- RAG chatbots, LLM-powered agents, and workflow automation
+- ML prediction services and data-driven product features
 
-## 🤖 AI Engineering Lab
+## Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit |
+| Backend | Node.js, Express, NestJS, Laravel, REST APIs, WebSockets |
+| Databases | MongoDB, PostgreSQL, MySQL, Redis |
+| AI/ML | Python, FastAPI, LangChain, RAG, Vector Databases, scikit-learn |
+| DevOps | Docker, GitHub Actions, Vercel, Render, Nginx |
+
+## Featured Projects
+
+### HeritageHub — Ethiopian Cultural-Products E-Commerce
+
+- **Problem:** Help people discover Ethiopian cultural products through an accessible online shopping experience.
+- **Solution:** An e-commerce platform concept centered on cultural-product discovery and shopping.
+- **Tech stack:** [Add verified project technologies]
+- **Key features:** Product discovery, catalog browsing, and an e-commerce shopping journey.
+- **Architecture highlights:** Organize the storefront, product catalog, and commerce operations into clear application layers.
+- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+
+### Auto Car Market — Automotive Marketplace
+
+- **Problem:** Bring vehicle discovery and seller inquiries together in a focused marketplace experience.
+- **Solution:** An automotive marketplace scope covering dealer onboarding, vehicle search, image uploads, and inquiry management.
+- **Tech stack:** [Add verified project technologies]
+- **Key features:** Dealer onboarding, vehicle search, vehicle image uploads, and inquiry management.
+- **Architecture highlights:** Separate dealer and vehicle workflows from search and inquiry handling, with controlled image uploads.
+- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+
+### Government Service Automation — Public-Service Workflow Platform
+
+- **Problem:** Make public-service requests and their progress easier to manage digitally.
+- **Solution:** A digital workflow platform scope for submitting documents and tracking service status with role-based access.
+- **Tech stack:** [Add verified project technologies]
+- **Key features:** Role-based access, document uploads, and request status tracking.
+- **Architecture highlights:** Model service requests as trackable workflows and protect actions according to user roles.
+- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+
+## AI Engineering Lab
+
+I build practical AI systems for customer support, public-service automation, and intelligent workflow tools, with a focus on useful retrieval, clear answers, and responsible integration.
+
+<!-- AI_LAB_START -->
+| Project | Focus | Stack | Status | Links |
+|---|---|---|---|---|
+| **Government Service RAG Chatbot** | RAG · Citations · Document Search | RAG, Citations, Document Search | Status to be updated | — |
+| **Financial Support AI Agent** | LLM Agent · Workflow Automation | LLM Agent, Workflow Automation | Status to be updated | — |
+| **Medical Risk Prediction API** | ML API · Model Evaluation | ML API, Model Evaluation | Status to be updated | — |
+<!-- AI_LAB_END -->
+
+### Reference Architecture
 
 ```mermaid
 flowchart LR
-  U[User] --> UI[React UI]
-  UI --> API[API Layer]
-  API --> RAG[RAG Pipeline]
-  RAG --> VDB[(Vector DB)]
-  RAG --> LLM[LLM API]
-  API --> DB[(Application DB)]
+    User --> React[React Interface]
+    React --> API[FastAPI / Node.js API]
+    API --> RAG[RAG Pipeline]
+    RAG --> VectorDB[(Vector Database)]
+    RAG --> LLM[LLM API]
+    API --> AppDB[(Application Database)]
+    API --> Auth[Authentication & Roles]
 ```
 
-**Focus areas:** RAG, LLM agents, document automation, ML APIs, and secure backend systems.
+### AI Capabilities
 
-## 📊 Activity
+- Retrieval-Augmented Generation with document citations
+- LLM-powered chatbots and customer-support agents
+- Intelligent document search and workflow automation
+- ML prediction APIs with FastAPI
+- Secure API design, validation, logging, and deployment
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-  alt="GitHub stats"
-  height="165"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=haile12michael12&hide_border=true&theme=tokyonight"
-  alt="GitHub streak"
-  height="165"
-/>
-
-</div>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true&days=31)
-
-## 🤝 Connect
+## Dynamic Activity Stats
 
 <div align="center">
 
-[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/your-username) · [Email](mailto:your@email.com)
+<a href="https://github.com/haile12michael12">
+  <img src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
+</a>
+<a href="https://github.com/haile12michael12">
+  <img src="https://streak-stats.demolab.com?user=haile12michael12&hide_border=true&theme=tokyonight" alt="GitHub streak stats" height="165" />
+</a>
+<a href="https://github.com/haile12michael12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile12michael12&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
+</a>
+
+<a href="https://github.com/haile12michael12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true&days=31" alt="GitHub activity graph" width="100%" />
+</a>
 
 </div>
+
+## Optional Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌍 Visitor Activity
+
+[![Profile Views](https://komarev.com/ghpvc/?username=haile12michael12&color=0abf53&style=flat-square&label=Profile+Views)](https://github.com/haile12michael12)
+
+![Visitor map](https://gitviewsmap.vercel.app/api/map?username=haile12michael12)
+
+Anonymous, aggregated visitor-location data only. No visitor identities are shown.
+
+## Achievements
+
+- Full-Stack Engineer focused on scalable web platforms, secure APIs, and AI-powered products.
+- **Certifications:** [Add verified certifications, if applicable]
+- **Selected recognition:** [Add verified awards or milestones, if applicable]
+
+## Contact
+
+Interested in building useful web and AI products together? I’m open to remote full-stack, AI integration, and software engineering roles.
+
+- **Portfolio:** [PORTFOLIO_URL]
+- **LinkedIn:** [LINKEDIN_URL]
+- **Email:** [EMAIL]
+- **Open to work:** Remote full-stack engineering, AI integration, and software engineering opportunities
