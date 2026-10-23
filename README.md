@@ -158,6 +158,12 @@ Browse my repositories to discover more experiments and projects.
 
 ---
 
+## 🤖 AI Lab
+
+Experiments and resources for my AI projects are tracked in the [AI Lab data](data/ai-lab.json).
+
+---
+
 ## 🎯 Current Focus
 
 - 🏗️ Improving full-stack application architecture and code quality

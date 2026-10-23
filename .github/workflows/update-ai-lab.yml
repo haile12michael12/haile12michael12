@@ -1,0 +1,16 @@
+name: Update AI Lab
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate AI Lab data
+        run: python -m json.tool data/ai-lab.json > /dev/null
