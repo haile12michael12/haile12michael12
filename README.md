@@ -1,199 +1,88 @@
-
-<!--
-  GitHub Profile README
-  Author: Hailemichael Assefa
-  Repository: haile12michael12/haile12michael12
--->
-
 <div align="center">
 
-<!-- HERO SECTION -->
+# 👋 Hailemichael Assefa
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:06B6D4&height=220&section=header&text=Hailemichael%20Assefa&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Solutions&descAlignY=57&descSize=16" width="100%" alt="Hailemichael Assefa — Full-Stack Developer"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+Product+Builder;RAG+Chatbot+Developer;Scalable+Systems+Enthusiast)
 
-<a href="https://github.com/haile12michael12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+applications;Turning+ideas+into+working+software;Exploring+AI+and+intelligent+automation" alt="Developer introduction"/>
-</a>
+**Building scalable web platforms and practical AI-powered products.**
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-<a href="https://github.com/haile12michael12?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-<a href="https://linkedin.com/in/haile-michael-assefa1/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=haile12michael12&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
----
+## ⚡ About Me
 
-## 👋 About Me
+- 🔭 Currently building: **RAG-powered government-service chatbot**
+- 🌱 Learning: **Advanced system design and AI engineering**
+- 💬 Ask me about: **React, Node.js, Laravel, MongoDB, RAG, API design**
+- 🌍 Based in: **Ethiopia · Open to remote work**
 
-Hi! I'm **Hailemichael Assefa**, a Full-Stack Developer passionate about building practical, user-focused digital products.
+## 🧰 Tech Stack
 
-I work across frontend and backend development, creating web applications that combine thoughtful user experiences, reliable APIs, and maintainable software architecture.
+<div align="center">
 
-- 💻 Building modern web applications and REST APIs
-- 🛒 Developing e-commerce platforms, marketplaces, and business systems
-- ⚙️ Interested in clean architecture, authentication, and scalable backend systems
-- 🤖 Exploring AI agents, intelligent automation, and AI-powered applications
-- 🌍 Based in Ethiopia and interested in remote opportunities and international collaboration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**My goal:** Turn complex requirements into useful, reliable, and well-designed software.
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&perline=8" alt="Frontend technologies"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,fastapi&perline=7" alt="Backend technologies"/>
-</p>
-
-### Databases and Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,docker,aws&perline=7" alt="Databases and infrastructure"/>
-</p>
-
-### Tools and Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,jenkins&perline=6" alt="Development tools"/>
-</p>
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **HeritageHub** | Ethiopian cultural-products e-commerce platform | React · Node.js · MongoDB | [Demo](#) · [Code](#) |
+| **Auto Car Market** | Automotive marketplace with dealer workflows | React · Node.js · MongoDB | [Demo](#) · [Code](#) |
+| **Gov RAG Chatbot** | Document-grounded AI assistant with citations | React · FastAPI · LangChain | [Demo](#) · [Code](#) |
+| **Medical Risk API** | ML prediction service with REST API | Python · FastAPI · scikit-learn | [Code](#) |
 
-### 🛍️ HeritageHub
+## 🤖 AI Engineering Lab
 
-**Ethiopian Heritage E-Commerce**
+```mermaid
+flowchart LR
+  U[User] --> UI[React UI]
+  UI --> API[API Layer]
+  API --> RAG[RAG Pipeline]
+  RAG --> VDB[(Vector DB)]
+  RAG --> LLM[LLM API]
+  API --> DB[(Application DB)]
+```
 
-An e-commerce project inspired by Ethiopian heritage, designed to showcase cultural products through a modern digital shopping experience.
+**Focus areas:** RAG, LLM agents, document automation, ML APIs, and secure backend systems.
 
-- Cultural product discovery
-- E-commerce user experience
-- Opportunities for catalog and seller management
-
-**Explore:** [Source Code](https://github.com/haile12michael12/HeritageHub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Auto Car Market
-
-**Automotive Marketplace**
-
-A vehicle marketplace concept focused on helping customers discover vehicles and connect with sellers.
-
-- Vehicle discovery and listings
-- Search and filtering experience
-- Buyer and dealer inquiries
-
-**Explore:** [Live Demo](https://auto-car-market-website.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Developer Portfolio
-
-**Personal Portfolio Platform**
-
-My personal development portfolio for presenting software projects, technical skills, and professional work.
-
-- Project showcase
-- Personal branding
-- Foundation for portfolio enhancements
-
-**Explore:** [Source Code](https://github.com/haile12michael12/unique-portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 More Projects
-
-I continue to explore ideas in full-stack development, AI automation, business platforms, and developer tools.
-
-Browse my repositories to discover more experiments and projects.
-
-**Explore:** [All Repositories](https://github.com/haile12michael12?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+## 📊 Activity
 
 <div align="center">
 
-<a href="https://github.com/haile12michael12">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/haile12michael12">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile12michael12&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages"/>
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=haile12michael12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+  alt="GitHub stats"
+  height="165"
+/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=haile12michael12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=haile12michael12&hide_border=true&theme=tokyonight"
+  alt="GitHub streak"
+  height="165"
+/>
 
 </div>
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true&days=31)
 
-## 🤖 AI Lab
-
-Experiments and resources for my AI projects are tracked in the [AI Lab data](data/ai-lab.json).
-
----
-
-## 🎯 Current Focus
-
-- 🏗️ Improving full-stack application architecture and code quality
-- 🔐 Building secure authentication and authorization systems
-- 🛒 Developing practical e-commerce and marketplace solutions
-- 🤖 Exploring AI agents, APIs, and workflow automation
-- ☁️ Strengthening deployment, CI/CD, and cloud infrastructure skills
-
----
-
-## 🤝 Let's Connect
-
-I'm open to meaningful collaborations, interesting software projects, and opportunities to build useful digital products.
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/haile12michael12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/haile-michael-assefa1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/haile12michael12?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-
-<br/><br/>
-
-**Have an idea worth building? Let's connect and make it happen.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative footer"/>
+[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/your-username) · [Email](mailto:your@email.com)
 
 </div>
