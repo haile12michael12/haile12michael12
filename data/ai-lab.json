@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Government Service RAG Chatbot",
-      "description": "RAG chatbot concept for searching public-service documents and providing answers with citations.",
+      "description": "RAG chatbot concept for searching public-service documents and returning answers with citations.",
       "stack": ["RAG", "Citations", "Document Search"],
       "demo": "",
       "repo": "",

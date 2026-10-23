@@ -1,0 +1,22 @@
+name: Update Animated Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate animated contribution graphs
+        uses: alexcerezo/activity-graph@v1
+        with:
+          username: haile12michael12
+          token: ${{ secrets.GITHUB_TOKEN }}

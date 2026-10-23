@@ -26,46 +26,46 @@
 
 ## Technology Stack
 
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
 | Frontend | React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit |
 | Backend | Node.js, Express, NestJS, Laravel, REST APIs, WebSockets |
 | Databases | MongoDB, PostgreSQL, MySQL, Redis |
-| AI/ML | Python, FastAPI, LangChain, RAG, Vector Databases, scikit-learn |
+| AI / ML | Python, FastAPI, LangChain, RAG, Vector Databases, scikit-learn |
 | DevOps | Docker, GitHub Actions, Vercel, Render, Nginx |
 
 ## Featured Projects
 
-### HeritageHub — Ethiopian Cultural-Products E-Commerce
+### [HeritageHub — Ethiopian Cultural-Products E-Commerce]([REPO_URL])
 
-- **Problem:** Help people discover Ethiopian cultural products through an accessible online shopping experience.
+- **Problem:** Make Ethiopian cultural products easier to discover through a focused online shopping experience.
 - **Solution:** An e-commerce platform concept centered on cultural-product discovery and shopping.
 - **Tech stack:** [Add verified project technologies]
 - **Key features:** Product discovery, catalog browsing, and an e-commerce shopping journey.
-- **Architecture highlights:** Organize the storefront, product catalog, and commerce operations into clear application layers.
-- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+- **Architecture highlights:** Keep storefront browsing, product catalog, and commerce flows organized as distinct application concerns.
+- **Links:** [Live Demo]([LIVE_DEMO_URL]) · [Source Code]([REPO_URL]) · [API Docs]([API_DOCS_URL])
 
-### Auto Car Market — Automotive Marketplace
+### [Auto Car Market — Automotive Marketplace]([REPO_URL])
 
 - **Problem:** Bring vehicle discovery and seller inquiries together in a focused marketplace experience.
-- **Solution:** An automotive marketplace scope covering dealer onboarding, vehicle search, image uploads, and inquiry management.
+- **Solution:** A marketplace concept covering dealer onboarding, vehicle search, image uploads, and inquiry management.
 - **Tech stack:** [Add verified project technologies]
 - **Key features:** Dealer onboarding, vehicle search, vehicle image uploads, and inquiry management.
-- **Architecture highlights:** Separate dealer and vehicle workflows from search and inquiry handling, with controlled image uploads.
-- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+- **Architecture highlights:** Separate dealer and vehicle workflows from search and inquiry handling, with controlled image-upload flows.
+- **Links:** [Live Demo]([LIVE_DEMO_URL]) · [Source Code]([REPO_URL]) · [API Docs]([API_DOCS_URL])
 
-### Government Service Automation — Public-Service Workflow Platform
+### [Government Service Automation — Public-Service Workflow Platform]([REPO_URL])
 
 - **Problem:** Make public-service requests and their progress easier to manage digitally.
-- **Solution:** A digital workflow platform scope for submitting documents and tracking service status with role-based access.
+- **Solution:** A digital workflow platform concept for submitting documents and tracking service status with role-based access.
 - **Tech stack:** [Add verified project technologies]
 - **Key features:** Role-based access, document uploads, and request status tracking.
 - **Architecture highlights:** Model service requests as trackable workflows and protect actions according to user roles.
-- **Links:** [Live demo]([LIVE_DEMO_URL]) · [Source code]([REPO_URL]) · [API documentation]([API_DOCS_URL])
+- **Links:** [Live Demo]([LIVE_DEMO_URL]) · [Source Code]([REPO_URL]) · [API Docs]([API_DOCS_URL])
 
 ## AI Engineering Lab
 
-I build practical AI systems for customer support, public-service automation, and intelligent workflow tools, with a focus on useful retrieval, clear answers, and responsible integration.
+I build practical AI systems for customer support, public-service automation, and intelligent workflow tools.
 
 <!-- AI_LAB_START -->
 | Project | Focus | Stack | Status | Links |
@@ -110,11 +110,22 @@ flowchart LR
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile12michael12&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
 </a>
 
-<a href="https://github.com/haile12michael12">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true&days=31" alt="GitHub activity graph" width="100%" />
-</a>
+</div>
+
+## 📈 Dynamic GitHub Activity Graphs
+
+### 📊 Recent Contribution Activity
+
+<div align="center">
+
+![Recent Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=haile12michael12&theme=tokyo-night&hide_border=true&area=true&area_color=8b5cf6&line=22d3ee&point=22d3ee&custom_title=Recent%20Coding%20Activity&days=31)
 
 </div>
+
+### 🎞️ Animated Contribution Graph
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ## Optional Recent GitHub Activity
 
@@ -131,9 +142,9 @@ Anonymous, aggregated visitor-location data only. No visitor identities are show
 
 ## Achievements
 
-- Full-Stack Engineer focused on scalable web platforms, secure APIs, and AI-powered products.
 - **Certifications:** [Add verified certifications, if applicable]
-- **Selected recognition:** [Add verified awards or milestones, if applicable]
+- **Recognition:** [Add verified awards or milestones, if applicable]
+- **Selected work:** [Add verified project outcomes or contributions, if applicable]
 
 ## Contact
 
