@@ -6,7 +6,7 @@
 
 **Full-Stack Engineer building scalable web platforms, secure APIs, and AI-powered products.**
 
-📍 Bishoftu, Oromiya, Ethiopia · Open to remote roles
+📍 AddisAbaba, Ethiopia · Open to remote roles
 
 [Portfolio]([PORTFOLIO_URL]) · [LinkedIn]([LINKEDIN_URL]) · [Email](mailto:[EMAIL]) · [CV]([CV_URL])
 
