@@ -134,9 +134,9 @@ flowchart LR
 ## Optional Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/haile12michael12/build-ethiopia-funnel/pull/11) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
-2. 💪 Opened PR [#11](https://github.com/haile12michael12/build-ethiopia-funnel/pull/11) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
-3. 🎉 Merged PR [#10](https://github.com/haile12michael12/build-ethiopia-funnel/pull/10) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
+1. 🎉 Merged PR [#13](https://github.com/haile12michael12/build-ethiopia-funnel/pull/13) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
+2. 💪 Opened PR [#13](https://github.com/haile12michael12/build-ethiopia-funnel/pull/13) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
+3. 🎉 Merged PR [#12](https://github.com/haile12michael12/build-ethiopia-funnel/pull/12) in [haile12michael12/build-ethiopia-funnel](https://github.com/haile12michael12/build-ethiopia-funnel)
 <!--END_SECTION:activity-->
 
 ## 🌍 Visitor Activity
